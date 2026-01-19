@@ -162,7 +162,7 @@ features: [
       },
       {
         name: "mongoDB",
-        color: "pink-text-gradient",
+        color: "pink-text-gradient",   
       },
       {
         name: "CSS",
@@ -174,54 +174,54 @@ features: [
       },
     ],
     image: shoeStruct,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
-    live_link: "https://www.inksync.cloud/",
+    source_code_link: "https://github.com/manikandank8086/ShoeStrut.git",
+    live_link: "",
   },
-  {
-    name: "Hayasaka",
-    description:
-      "A dynamic full-stack music streaming web application with Next.js 13 and MongoDB.",
-    features: [
-      "User authentication using NextAuth.js with JWT and OAuth providers.",
-      "Redux to Manage app state effectively.",
-      "Play, pause, skip, and control the playback of songs.",
-      "Users can Create, update and delete their own playlists.",
-      "Add songs to favorites in one click.",
-      "Auto adds similar songs to the queue.",
-      "Swipe and touch gestures for touch-responsive devices.",
-      "Display song details such as title, artist, album, and album artwork.",
-      "PWA (Progressive Web App) support. ",
-    ],
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "nextjs",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "nextauth",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "redux",
-        color: "green-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/himanshu8443/hayasaka",
-    live_link: "https://hayasaka.live/",
-  },
+  // {
+  //   name: "Hayasaka",
+  //   description:
+  //     "A dynamic full-stack music streaming web application with Next.js 13 and MongoDB.",
+  //   features: [
+  //     "User authentication using NextAuth.js with JWT and OAuth providers.",
+  //     "Redux to Manage app state effectively.",
+  //     "Play, pause, skip, and control the playback of songs.",
+  //     "Users can Create, update and delete their own playlists.",
+  //     "Add songs to favorites in one click.",
+  //     "Auto adds similar songs to the queue.",
+  //     "Swipe and touch gestures for touch-responsive devices.",
+  //     "Display song details such as title, artist, album, and album artwork.",
+  //     "PWA (Progressive Web App) support. ",
+  //   ],
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "nextjs",
+  //       color: "orange-text-gradient",
+  //     },
+  //     {
+  //       name: "nextauth",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "redux",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: carrent,
+  //   source_code_link: "https://github.com/himanshu8443/hayasaka",
+  //   live_link: "https://hayasaka.live/",
+  // },
   {
     name: "CineMax",
 description: "Built a Netflix-inspired OTT platform (CineMax) with modern UI, dynamic content, and responsive design.",

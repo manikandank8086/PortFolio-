@@ -51,7 +51,7 @@ const Contact = () => {
         },
         process.env.PUBLIC_KEY
       )
-      .then(
+      .then(  
         () => {
           setLoading(false);
           toast.success("Thanks for reaching out. I'll get back to you soon.");
