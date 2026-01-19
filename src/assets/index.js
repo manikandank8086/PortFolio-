@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./Logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -32,8 +32,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import inkSync from "./ink.png";
+import cinemax from "./cinemax.png";
+import shoeStruct from "./shoeStruct.png";
 import tracker from "./tracker.png";
 import socialSphere from "./socialSphere.png";
 
@@ -64,8 +64,8 @@ export {
   starbucks,
   tesla,
   carrent,
-  jobit,
-  inkSync,
+  cinemax,
+  shoeStruct,
   tracker,
   socialSphere,
   nextjs,
