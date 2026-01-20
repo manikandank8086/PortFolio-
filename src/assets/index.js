@@ -31,7 +31,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
+import olx from "./olx.png";
 import cinemax from "./cinemax.png";
 import shoeStruct from "./shoeStruct.png";
 import tracker from "./tracker.png";
@@ -63,7 +63,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  olx,
   cinemax,
   shoeStruct,
   tracker,
